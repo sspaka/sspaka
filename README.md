@@ -15,7 +15,7 @@
 
 ### :books: Education & Career
 
-- Samsung SW Academy For Youth (a.k.a. SSAFY) 7th Coach (2022.01 - present)
+- Samsung SW Academy For Youth (a.k.a. SSAFY) 7th (2022.01 - present)
 - sungKyunKwan University, System Engineering, Computer Science (2016.03 - 2022.02)
 
 
